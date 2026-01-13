@@ -1,3 +1,35 @@
+# 👋 Hi, I'm Jefferson
+
+I'm a developer in training, focused on **Python and back-end development**, with an interest in web applications, APIs, and databases.
+
+I currently study and build projects using **Python, Flask, SQL, and SQLite**, applying good programming practices, clean code organization, and version control with Git.
+
+---
+
+## 🛠️ Tech Stack
+
+- Python  
+- Flask  
+- SQL / SQLite  
+- HTML & CSS  
+- Git & GitHub  
+
+---
+
+## 📚 What you'll find here
+
+- Academic and personal projects  
+- Python APIs and web applications  
+- Practical exercises in logic and databases  
+- Projects under continuous improvement (MVP → refined versions)
+
+---
+
+## 🎯 Goal
+
+To strengthen my practical experience as a developer and grow into more robust projects, applying concepts of architecture, security, and scalability.
+
+---
 
 
 ###
