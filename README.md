@@ -17,10 +17,10 @@
 
 ## 🏎️ About Me
 
-```python
+```python'''
 class Developer:
     def __init__(self):
-        self.name = "Jefferson Gomes"
+        self.name = Jefferson Gomes
         self.language = "Python 🐍"
         self.interests = ["Formula 1", "MotoGP", "Cars", "Sim Racing", "Videogames"]
         self.currently = "Building cool stuff with Python"
