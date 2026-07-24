@@ -1,47 +1,26 @@
-# 👋 Hi, I'm Jefferson
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+YOUR_NAME!;Python+Developer+%F0%9F%90%8D;MotoGP+%26+Racing+Fan+%F0%9F%8F%8E%EF%B8%8F;Gamer+%F0%9F%8E%AE&center=true&size=30">
+</h1>
 
-I'm a developer in training, focused on **Python and back-end development**, with an interest in web applications, APIs, and databases.
-
-I currently study and build projects using **Python, Flask, SQL, and SQLite**, applying good programming practices, clean code organization, and version control with Git.
-
----
-
-## 🛠️ Tech Stack
-
-- Python  
-- Flask  
-- SQL / SQLite  
-- HTML & CSS  
-- Git & GitHub  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 📚 What you'll find here
+## 🏎️ About Me
 
-- Academic and personal projects  
-- Python APIs and web applications  
-- Practical exercises in logic and databases  
-- Projects under continuous improvement (MVP → refined versions)
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Jefferson Gomes"
+        self.language = "Python 🐍"
+        self.interests = ["Formula 1", "MotoGP", "Cars", "Sim Racing", "Videogames"]
+        self.currently = "Building cool stuff with Python"
+        self.favorite_rider = "Lewis Hamilton" and "Gabriel Bortoleto"!
+        self.favorite_game = "iRacing", "Destiny", "Football Manager"
+    
+    def weekend_plan(self):
+        return "Code in the morning, watch Formula 1 in the afternoon, race in the evening 🏁"
 
----
-
-## 🎯 Goal
-
-To strengthen my practical experience as a developer and grow into more robust projects, applying concepts of architecture, security, and scalability.
-
----
-
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-
-###
+me = Developer()
