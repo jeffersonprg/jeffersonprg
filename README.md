@@ -5,6 +5,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jeffersonprg&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,docker,git,github,linux,vscode,postgresql,mongodb,html,css,js&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/jeffersonprg/jeffersonprg/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 
 ---
 
@@ -24,13 +32,5 @@ class Developer:
         return "Code in the morning, watch Formula 1 in the afternoon, race in the evening 🏁"
 
 me = Developer()
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,docker,git,github,linux,vscode,postgresql,mongodb,html,css,js&perline=8" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/jeffersonprg/jeffersonprg/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 
