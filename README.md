@@ -9,13 +9,7 @@
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,docker,git,github,linux,vscode,postgresql,mongodb,html,css,js&perline=8" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,docker,git,github,linux,vscode,postgresql,mongodb,html,css,js&perline=8" />
-</p>
 
-<p align="center">
-  <img src="https://github.com/jeffersonprg/jeffersonprg/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 
 
