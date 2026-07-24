@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+YOUR_NAME!;Python+Developer+%F0%9F%90%8D;MotoGP+%26+Racing+Fan+%F0%9F%8F%8E%EF%B8%8F;Gamer+%F0%9F%8E%AE&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Jefferson+Gomes!;Python+Developer+%F0%9F%90%8D;Formula+1+%26+Racing+Fan+%F0%9F%8F%8E%EF%B8%8F;Sim+Racer+%F0%9F%8E%AE&center=true&size=30">
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jeffersonprg&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
