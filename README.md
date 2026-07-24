@@ -17,18 +17,18 @@
 
 ## 🏎️ About Me
 
-```python'''
+```python
 class Developer:
     def __init__(self):
         self.name = Jefferson Gomes
-        self.language = "Python 🐍"
-        self.interests = ["Formula 1", "MotoGP", "Cars", "Sim Racing", "Videogames"]
-        self.currently = "Building cool stuff with Python"
-        self.favorite_drivers = "Lewis Hamilton" and "Gabriel Bortoleto"!
-        self.favorite_game = "iRacing", "Destiny", "Football Manager"
+        self.language = Python 🐍
+        self.interests = Formula 1, MotoGP, Cars, Sim Racing, Videogames
+        self.currently = In Internship
+        self.favorite_drivers = Lewis Hamilton and Gabriel Bortoleto!
+        self.favorite_game = iRacing, Destiny, Football Manager
     
     def weekend_plan(self):
-        return "Code in the morning, watch Formula 1 in the afternoon, race in the evening 🏁"
+        return Code in the morning, watch Formula 1 in the afternoon, race in the evening 🏁
 
 me = Developer()
 
